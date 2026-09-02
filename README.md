@@ -118,25 +118,23 @@ User Performance
 Overview
 
 📁 Project Structure
-zomato-sales-analysis-powerbi/
-│
+
 ├── README.md
-│
-├── Dashboard/
-│   └── Zomato_Sales_Analysis.pbix
-│
-├── Dataset/
-│   └── Zomato_Sales_Data.xlsx
-│
+
 ├── Dashboard_Screenshots/
-│   ├── Zomato_Dashboard.png
-│   ├── City_Performance.png
-│   ├── User_Performance.png
-│   └── Zomato_Overview.png
-│
-└── Documentation/
-    └── Project_Overview.md
-    
+│   ├── Zomato Analysis index.png
+│   ├── Zomato Analysis City.png
+│   ├── Zomato Analysis Users.png
+│   └── Zomato Analysis Overview.png
+|   Zomato.pdf
+|   food.xlsx
+|   orders.xlsx 
+|   restaurant.xlsx
+|   users.xlsx 
+
+## zomato Analysis Dashboard images
+
+
 🚀 How to Use
 Download the Power BI file from the Dashboard folder.
 Open Zomato_Sales_Analysis.pbix in Microsoft Power BI Desktop.
