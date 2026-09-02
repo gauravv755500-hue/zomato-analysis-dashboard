@@ -8,6 +8,7 @@ The dashboard provides a comprehensive view of Zomato's business performance by 
 The objective of this project is to transform raw data into meaningful business insights and support data-driven decision-making.
 
 🎯 Project Objectives
+
 Analyze overall Zomato sales performance
 Track total sales, quantity, ratings, and orders
 Analyze active users and total users
@@ -133,7 +134,7 @@ Overview
 |   users.xlsx 
 
 ## zomato Analysis Dashboard images
-
+https://github.com/gauravv755500-hue/zomato-analysis-dashboard/blob/main/Zomato.pdf
 
 🚀 How to Use
 Download the Power BI file from the Dashboard folder.
@@ -160,6 +161,5 @@ Gaurav
 Data Analyst | Power BI | SQL | Python | Excel
 
 ⭐ Feedback
-
 If you find this project useful, feel free to explore the dashboard and provide your feedback.
 ⭐ Star this repository if you found it helpful!# zomato-analysis-dashboard
