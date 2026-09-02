@@ -1,6 +1,7 @@
 🍽️ Zomato Sales Analysis | Power BI Dashboard
 
 📊 Project Overview
+
 This project is an interactive Zomato Sales Analysis Dashboard created using Microsoft Power BI.
 
 The dashboard provides a comprehensive view of Zomato's business performance by analyzing sales, quantity, ratings, orders, users, city performance, customer demographics, and yearly sales trends.
@@ -33,6 +34,7 @@ Business Intelligence
 📌 Dashboard Pages
 
 🏠 1. Dashboard / Overview
+
 The main dashboard provides an overview of Zomato's overall business performance.
 
 Key metrics:
